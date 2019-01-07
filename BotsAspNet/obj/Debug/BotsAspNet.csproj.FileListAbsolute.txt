@@ -1,0 +1,210 @@
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\BotsAspNet.dll.config
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\BotsAspNet.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\BotsAspNet.pdb
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\csc.exe
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\csc.exe.config
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\csc.rsp
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\csi.exe
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\csi.exe.config
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\csi.rsp
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.AppContext.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Console.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Security.Claims.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Threading.Thread.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\vbc.exe
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\vbc.exe.config
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\vbc.rsp
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Autofac.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Chronic.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.Bot.Builder.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.Bot.Connector.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Newtonsoft.Json.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\System.Web.Http.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Autofac.xml
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.Bot.Builder.pdb
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.Bot.Builder.xml
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.Bot.Connector.xml
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Newtonsoft.Json.xml
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\System.Web.Http.xml
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\el\Microsoft.Bot.Builder.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\es\System.Web.Http.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\obj\Debug\BotsAspNet.csprojAssemblyReference.cache
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\obj\Debug\BotsAspNet.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\obj\Debug\BotsAspNet.csproj.CopyComplete
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\obj\Debug\BotsAspNet.dll
+C:\Users\DELL 5000\Documents\Bots\BotsAspNet\BotsAspNet\obj\Debug\BotsAspNet.pdb
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\BotsAspNet.dll.config
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\BotsAspNet.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\BotsAspNet.pdb
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\csc.exe
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\csc.exe.config
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\csc.rsp
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\csi.exe
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\csi.exe.config
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\csi.rsp
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.AppContext.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Console.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.IO.Compression.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Security.Claims.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Threading.Thread.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.ValueTuple.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\vbc.exe
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\vbc.exe.config
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\vbc.rsp
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\VBCSCompiler.exe
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Autofac.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Chronic.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.Bot.Builder.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.Bot.Connector.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Newtonsoft.Json.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\System.Net.Http.Formatting.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\System.Web.Http.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\System.Web.Http.WebHost.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Autofac.xml
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.Bot.Builder.pdb
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.Bot.Builder.xml
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.Bot.Connector.xml
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Newtonsoft.Json.xml
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\System.Net.Http.Formatting.xml
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\System.Web.Http.xml
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\System.Web.Http.WebHost.xml
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\el\Microsoft.Bot.Builder.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\es\System.Web.Http.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\obj\Debug\BotsAspNet.csprojAssemblyReference.cache
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\obj\Debug\BotsAspNet.csproj.CoreCompileInputs.cache
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\obj\Debug\BotsAspNet.csproj.CopyComplete
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\obj\Debug\BotsAspNet.dll
+C:\Users\gramirez\Documents\dojo\bots\BotWithAspNet\BotsAspNet\obj\Debug\BotsAspNet.pdb
